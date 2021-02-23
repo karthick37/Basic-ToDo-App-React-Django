@@ -9,7 +9,8 @@ Todo app with React front-end and Django Backend
   <li>reactjs</li>
 </ul>
 
-How To Run <br>
+**How To Run** <br>
+
 Step 1: Git Clone <br>
   <code>git clone git@github.com:karthick37/FractalAnalysis.git</code><br><br>
 Step 2: Initialize django server <br>
