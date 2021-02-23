@@ -24,8 +24,8 @@ Step 3: Initialize React App <br>
     <code>npm build </code> <br>
     <code>npm start </code> <br>
   
-**On Browser**
-    FrontEnd: <url>http://localhost:3000</url>
+**On Browser** <br>
+    FrontEnd: <url>http://localhost:3000</url> <br>
     BackEnd:  <url>http://localhost:8000/api/todo-backend/</url>
  
 
