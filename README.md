@@ -20,6 +20,7 @@ Step 2: Initialize django server <br>
     <code>python3 manage.py runserver 8000</code> <br>
   
 Step 3: Initialize React App <br>
+    Follow the steps mentioned <a href="https://github.com/karthick37/FractalAnalysis/tree/master/todo_frontend">here</a> <br>
     <code>cd react_frontend</code> <br>
     <code>npm build </code> <br>
     <code>npm start </code> <br>
