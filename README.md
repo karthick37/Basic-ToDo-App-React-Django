@@ -12,14 +12,21 @@ Todo app with React front-end and Django Backend
 **How To Run** <br>
 
 Step 1: Git Clone <br>
-  <code>git clone git@github.com:karthick37/FractalAnalysis.git</code><br><br>
+    <code>git clone git@github.com:karthick37/FractalAnalysis.git</code><br>
+  
 Step 2: Initialize django server <br>
-  <code>python3 manage.py makemigrations</code> <br>
-  <code>python3 manage.py migrate</code> <br>
-  <code>python3 manage.py runserver 8000</code> <br><br>
+    <code>python3 manage.py makemigrations</code> <br>
+    <code>python3 manage.py migrate</code> <br>
+    <code>python3 manage.py runserver 8000</code> <br>
+  
 Step 3: Initialize React App <br>
-  <code>cd react_frontend</code> <br>
-  <code>npm build </code> <br>
-  <code>npm start </code> <br>
+    <code>cd react_frontend</code> <br>
+    <code>npm build </code> <br>
+    <code>npm start </code> <br>
+  
+**On Browser**
+    FrontEnd: <url>http://localhost:3000</url>
+    BackEnd:  <url>http://localhost:8000/api/todo-backend/</url>
+ 
 
 
