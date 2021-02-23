@@ -1,4 +1,4 @@
-# FractalAnalysis
+# FractalAnalysis Assignment
 Todo app with React front-end and Django Backend
 
 **Depandancies**
