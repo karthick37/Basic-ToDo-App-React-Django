@@ -29,4 +29,13 @@ Step 3: Initialize React App <br>
     BackEnd:  <url>http://localhost:8000/api/todo-backend/</url>
  
 
-
+**Updates Planned**
+  <ul>
+    <li>Form Validation</li>
+    <li>Error Handling</li>
+    <li>Edit/Update Tasks with alert modal</li>
+    <li>Bucket with multiple users</li>
+    <li>UI Change - Convert bootstrap based UI into MaterialUI</li>
+    <li>Add Organisation and user roles</li>
+    <li>Login within organisation, etc,... </li>
+  </ul>
