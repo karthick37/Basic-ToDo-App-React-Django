@@ -38,5 +38,5 @@ Step 3: Initialize React App <br>
     <li>Bucket with multiple users</li>
     <li>UI Change - Convert bootstrap based UI into MaterialUI</li>
     <li>Add Organisation and user roles</li>
-    <li>Login within organisation, etc,... </li>
+    <li>User login within organisation, etc,... </li>
   </ul>
