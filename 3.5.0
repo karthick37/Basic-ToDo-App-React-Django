@@ -1,0 +1,5 @@
+Requirement already satisfied: django-cors-headers in c:\users\karth\appdata\local\packages\pythonsoftwarefoundation.python.3.9_qbz5n2kfra8p0\localcache\local-packages\python39\site-packages (3.5.0)
+Requirement already satisfied: Django>=2.2 in c:\users\karth\appdata\local\packages\pythonsoftwarefoundation.python.3.9_qbz5n2kfra8p0\localcache\local-packages\python39\site-packages (from django-cors-headers) (3.1.7)
+Requirement already satisfied: asgiref<4,>=3.2.10 in c:\users\karth\appdata\local\packages\pythonsoftwarefoundation.python.3.9_qbz5n2kfra8p0\localcache\local-packages\python39\site-packages (from Django>=2.2->django-cors-headers) (3.3.1)
+Requirement already satisfied: pytz in c:\users\karth\appdata\local\packages\pythonsoftwarefoundation.python.3.9_qbz5n2kfra8p0\localcache\local-packages\python39\site-packages (from Django>=2.2->django-cors-headers) (2021.1)
+Requirement already satisfied: sqlparse>=0.2.2 in c:\users\karth\appdata\local\packages\pythonsoftwarefoundation.python.3.9_qbz5n2kfra8p0\localcache\local-packages\python39\site-packages (from Django>=2.2->django-cors-headers) (0.4.1)
