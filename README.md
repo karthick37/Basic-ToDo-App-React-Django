@@ -1,6 +1,8 @@
 # FractalAnalysis
 Todo app with React front-end and Django Backend
 
+#**Depandancies**
+
 How To Run <br>
 Step 1: Initialize django server <br>
   <code>python3 manage.py makemigrations</code> <br>
